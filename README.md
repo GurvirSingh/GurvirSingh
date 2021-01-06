@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center"> <img src="https://media.giphy.com/media/970Sr8vpwEbXG/giphy.gif" width="50"> <br/> Hey there, I am <a href="">Gurvir Singh Bhogal</a>! </h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/970Sr8vpwEbXG/giphy.gif" width="50" alt="cpu gif"> <br/> Hey there, I am <a href="">Gurvir Singh Bhogal</a>! </h2>
 
 <p align="center">
   <em>Graduate Student at <a href="https://www.uta.edu/">The University of Texas at Arlington</a></em>
