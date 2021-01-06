@@ -1,5 +1,6 @@
-<!--### Hi there 👋
+<!--### Hey there 👋 feel free to use this as a reference to create your own cool profile description  
 **GurvirSingh/GurvirSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Hey there, feel free to use this as a reference to create your own cool profile description --> 
+
 
 <h2 align="center"> <img src="https://media.giphy.com/media/970Sr8vpwEbXG/giphy.gif" width="50"> <br/> Hey there, I am <a href="">Gurvir Singh Bhogal</a>! </h2>
 
